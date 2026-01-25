@@ -21,7 +21,7 @@
     "ajv": "^8.10.0",
     "bezier-js": "^6.1.0",
     "change-case": "^4.1.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "node-html-parser": "^5.2.0",
     "postcss": "^8.5.0",
     "postcss-calc": "^9.0.1",
